@@ -5,12 +5,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloud9ide/tern_from_ts.git"
+    "url": "https://github.com/cloud9ideopen/tern_from_ts.git"
   },
   "author": "Lennart Kats <lennart@c9.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cloud9ide/tern_from_ts/issues"
+    "url": "https://github.com/cloud9ideopen/tern_from_ts/issues"
   },
-  "homepage": "https://github.com/cloud9ide/tern_from_ts"
+  "homepage": "https://github.com/cloud9ideopen/tern_from_ts"
 }
